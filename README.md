@@ -109,10 +109,15 @@ Nearby Hospital Search
 ↓
 Hospital Details
 
-https://github.com/Aardra06/medirecommend/blob/main/1st%20pg.jpeg
-https://github.com/Aardra06/medirecommend/blob/main/2nd%20pg.jpeg
-https://github.com/Aardra06/medirecommend/blob/main/3rd%20pg.jpeg
-http://github.com/Aardra06/medirecommend/blob/main/4th%20pg.jpeg
+
+
+![Home](https://raw.githubusercontent.com/Aardra06/medirecommend/main/1st%20pg.jpeg)
+
+![Symptoms](https://raw.githubusercontent.com/Aardra06/medirecommend/main/2nd%20pg.jpeg)
+
+![Hospitals](https://raw.githubusercontent.com/Aardra06/medirecommend/main/3rd%20pg.jpeg)
+
+![Details](https://raw.githubusercontent.com/Aardra06/medirecommend/main/4th%20pg.jpeg)
 
 ## 🎥 Demo Video
 
