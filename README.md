@@ -47,20 +47,43 @@ It reduces the time and confusion involved in choosing appropriate medical servi
 ---
 
 ## 📂 Project Structure
-app/
-├ api/
-│ ├ geocode/
-│ ├ hospitals/
-│ └ hospital-details/
-├ symptoms/
-├ location/
-├ search/
-├ hospitals/[id]/
-├ data/
-│ └ doctors.ts
-├ lib/
-│ └ haversine.ts
-└ page.tsx
+## 📁 Project Structure
+
+```
+medirecommend/
+│
+├── app/
+│   ├── api/
+│   │   ├── geocode/
+│   │   ├── hospitals/
+│   │   ├── hospital-details/
+│   │   └── symptoms/
+│   │
+│   ├── location/
+│   │   └── page.tsx
+│   │
+│   ├── search/
+│   │   └── page.tsx
+│   │
+│   ├── hospitals/
+│   │   └── [id]/
+│   │       └── page.tsx
+│   │
+│   ├── data/
+│   │   └── doctors.ts
+│   │
+│   ├── lib/
+│   │   └── haversine.ts
+│   │
+│   ├── layout.tsx
+│   ├── page.tsx
+│   └── globals.css
+│
+├── public/
+├── .env
+├── package.json
+└── README.md
+```
 
 
 ---
